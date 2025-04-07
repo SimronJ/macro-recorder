@@ -2,6 +2,12 @@
 
 A Python-based macro recorder that captures and replays keyboard and mouse actions with high precision timing and smooth mouse movements.
 
+## Demo
+
+![Macro Recorder Demo](demo.gif)
+
+*Demo showing recording and replaying mouse movements and keyboard inputs*
+
 ## Features
 
 - **Keyboard Recording**
@@ -28,12 +34,6 @@ A Python-based macro recorder that captures and replays keyboard and mouse actio
     - F8: Replay Last Recording
     - Q: Quit Program
   - Ctrl+C: Emergency Exit
-
-## Demo
-
-![Macro Recorder Demo](demo.gif)
-
-*Demo showing recording and replaying mouse movements and keyboard inputs*
 
 ## Installation
 
