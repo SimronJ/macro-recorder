@@ -1,0 +1,302 @@
+[
+  {
+    "key": "mouse_move",
+    "start_x": 1446,
+    "start_y": 689,
+    "end_x": 1869,
+    "end_y": 439,
+    "total_distance": 491.35425102465535,
+    "avg_speed": 405.119534602415,
+    "direction": -0.533787834837564,
+    "duration": 1.212862,
+    "time": 0.51401
+  },
+  {
+    "key": "mouse_left",
+    "press_time": 1.571968,
+    "release_time": 1.669042,
+    "duration": 0.097074
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1869,
+    "start_y": 439,
+    "end_x": 1517,
+    "end_y": 634,
+    "total_distance": 402.40402582479214,
+    "avg_speed": 411.0351893522926,
+    "direction": 2.635701003547566,
+    "duration": 0.979001,
+    "time": 1.749982
+  },
+  {
+    "key": "mouse_left",
+    "press_time": 2.36697,
+    "release_time": 2.492948,
+    "duration": 0.125978
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1517,
+    "start_y": 634,
+    "end_x": 1517,
+    "end_y": 635,
+    "total_distance": 1.0,
+    "avg_speed": 8.92324934768494,
+    "direction": 1.5707963267948966,
+    "duration": 0.112067,
+    "time": 2.744894
+  },
+  {
+    "key": "g",
+    "press_time": 3.832404,
+    "release_time": 3.935129,
+    "duration": 0.102725
+  },
+  {
+    "key": "i",
+    "press_time": 3.981175,
+    "release_time": 4.080606,
+    "duration": 0.099431
+  },
+  {
+    "key": "t",
+    "press_time": 4.079056,
+    "release_time": 4.188082,
+    "duration": 0.109026
+  },
+  {
+    "key": "h",
+    "press_time": 4.243149,
+    "release_time": 4.380127,
+    "duration": 0.136978
+  },
+  {
+    "key": "u",
+    "press_time": 4.295598,
+    "release_time": 4.464052,
+    "duration": 0.168454
+  },
+  {
+    "key": "b",
+    "press_time": 4.478344,
+    "release_time": 4.558196,
+    "duration": 0.079852
+  },
+  {
+    "key": "Key.enter",
+    "press_time": 4.930085,
+    "release_time": 5.024127,
+    "duration": 0.094042
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1516,
+    "start_y": 635,
+    "end_x": 1516,
+    "end_y": 635,
+    "total_distance": 0.0,
+    "avg_speed": 0.0,
+    "direction": 0.0,
+    "duration": 0.130083,
+    "time": 5.871856
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1516,
+    "start_y": 634,
+    "end_x": 1516,
+    "end_y": 634,
+    "total_distance": 0.0,
+    "avg_speed": 0.0,
+    "direction": 0.0,
+    "duration": 0.074847,
+    "time": 6.087125
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1516,
+    "start_y": 634,
+    "end_x": 1483,
+    "end_y": 606,
+    "total_distance": 43.278170016764804,
+    "avg_speed": 148.1585185743851,
+    "direction": -2.437978870810341,
+    "duration": 0.292107,
+    "time": 6.165925
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1483,
+    "start_y": 605,
+    "end_x": 1487,
+    "end_y": 594,
+    "total_distance": 11.704699910719626,
+    "avg_speed": 6.150363997759841,
+    "direction": -1.2220253232109897,
+    "duration": 1.903091,
+    "time": 6.463871
+  },
+  {
+    "key": "mouse_left",
+    "press_time": 6.640955,
+    "release_time": 6.742061,
+    "duration": 0.101106
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1487,
+    "start_y": 593,
+    "end_x": 1488,
+    "end_y": 593,
+    "total_distance": 1.0,
+    "avg_speed": 6.896860893848107,
+    "direction": 0.0,
+    "duration": 0.144993,
+    "time": 8.372897
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1489,
+    "start_y": 593,
+    "end_x": 2175,
+    "end_y": 402,
+    "total_distance": 712.0933927512598,
+    "avg_speed": 385.96123980490955,
+    "direction": -0.2715482183783828,
+    "duration": 1.844987,
+    "time": 8.522889
+  },
+  {
+    "key": "mouse_left",
+    "press_time": 10.083185,
+    "release_time": 10.194057,
+    "duration": 0.110872
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 2175,
+    "start_y": 402,
+    "end_x": 2175,
+    "end_y": 408,
+    "total_distance": 6.0,
+    "avg_speed": 6.756282751780948,
+    "direction": 1.5707963267948966,
+    "duration": 0.888062,
+    "time": 10.381826
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 2175,
+    "start_y": 409,
+    "end_x": 2175,
+    "end_y": 410,
+    "total_distance": 1.0,
+    "avg_speed": 4.32771725467044,
+    "direction": 1.5707963267948966,
+    "duration": 0.231069,
+    "time": 11.290871
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 2175,
+    "start_y": 410,
+    "end_x": 1750,
+    "end_y": 441,
+    "total_distance": 426.12908842274544,
+    "avg_speed": 156.03765682029606,
+    "direction": 3.068780424850807,
+    "duration": 2.730938,
+    "time": 11.525949
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1750,
+    "start_y": 442,
+    "end_x": 1587,
+    "end_y": 500,
+    "total_distance": 173.0115603073968,
+    "avg_speed": 487.22008628435105,
+    "direction": 2.79973512010513,
+    "duration": 0.355099,
+    "time": 14.257798
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1586,
+    "start_y": 500,
+    "end_x": 1562,
+    "end_y": 530,
+    "total_distance": 38.41874542459709,
+    "avg_speed": 56.33774986322874,
+    "direction": 2.2455372690184494,
+    "duration": 0.681936,
+    "time": 14.638865
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1562,
+    "start_y": 530,
+    "end_x": 1561,
+    "end_y": 530,
+    "total_distance": 1.0,
+    "avg_speed": 4.785389631154471,
+    "direction": 3.141592653589793,
+    "duration": 0.208969,
+    "time": 15.345892
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1561,
+    "start_y": 530,
+    "end_x": 1470,
+    "end_y": 782,
+    "total_distance": 267.9272289260649,
+    "avg_speed": 473.3669025017141,
+    "direction": 1.9173351912288386,
+    "duration": 0.566003,
+    "time": 15.556847
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1470,
+    "start_y": 782,
+    "end_x": 1470,
+    "end_y": 781,
+    "total_distance": 1.0,
+    "avg_speed": 2.5774086012084285,
+    "direction": -1.5707963267948966,
+    "duration": 0.387987,
+    "time": 16.151885
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1471,
+    "start_y": 781,
+    "end_x": 1472,
+    "end_y": 779,
+    "total_distance": 2.23606797749979,
+    "avg_speed": 5.562147842900428,
+    "direction": -1.1071487177940904,
+    "duration": 0.402015,
+    "time": 16.546926
+  },
+  {
+    "key": "mouse_move",
+    "start_x": 1472,
+    "start_y": 778,
+    "end_x": 1472,
+    "end_y": 776,
+    "total_distance": 2.0,
+    "avg_speed": 2.0662915934186477,
+    "direction": -1.5707963267948966,
+    "duration": 0.967918,
+    "time": 17.142909
+  },
+  {
+    "key": "Key.f6",
+    "press_time": 18.412133,
+    "release_time": 18.504045,
+    "duration": 0.091912
+  }
+]
